@@ -61,7 +61,8 @@ const ActionButtonStyle = styled.div`
   border-radius: 4px 4px 0 0;
   background: #f9f9f9;
   > svg {
-    padding-top: 11px;
+    height: 100%;
+    width: 20px;
   }
 `;
 
