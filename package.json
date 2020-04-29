@@ -1,6 +1,6 @@
 {
-  "name": "react-tabtab",
-  "version": "2.0.0",
+  "name": "react-awesome-tab",
+  "version": "0.0.1",
   "description": "A mobile support, draggable, editable and api based Tab for ReactJS",
   "main": "lib/",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ctxhou/react-tabtab.git"
+    "url": "git+https://github.com/VuongVu/react-tabtab"
   },
   "keywords": [
     "react",
@@ -43,9 +43,9 @@
   "author": "ctxhou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ctxhou/react-tabtab/issues"
+    "url": "https://github.com/VuongVu/react-tabtab/issues"
   },
-  "homepage": "https://github.com/ctxhou/react-tabtab#readme",
+  "homepage": "https://github.com/VuongVu/react-tabtab#readme",
   "dependencies": {
     "classnames": "^2.2.5",
     "invariant": "^2.2.2",
