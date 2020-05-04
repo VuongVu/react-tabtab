@@ -28,7 +28,7 @@ class ModalTabListWrapper extends SortMethod {
                         lockAxis='y'
                         // if no pressDelay, close button cannot be triggered,
                         // because it would always treat click as dnd action
-                        pressDelay='500'>
+                        pressDelay='150'>
         {this.props.children}
       </DragTabContainer>
     );
