@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-tab",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A mobile support, draggable, editable and api based Tab for ReactJS",
   "main": "lib/",
   "scripts": {

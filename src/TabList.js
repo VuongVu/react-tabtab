@@ -48,7 +48,8 @@ const ListScroll = styled.ul`
   position: relative;
   margin: 0;
   list-style: none;
-  display: inline-block;
+  display: flex;
+  justify-content: flex-start;
   transition: transform .3s cubic-bezier(.42, 0, .58, 1);
 `;
 

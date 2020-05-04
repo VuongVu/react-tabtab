@@ -14,7 +14,7 @@ const TabStyle = styled.li`
     `
   : props => props.closable ? 'padding: 10px 10px 10px 15px;' : 'padding: 10px 15px;'
   }
-
+  white-space: nowrap;
   user-select: none;
   &:hover {
     cursor: pointer;
